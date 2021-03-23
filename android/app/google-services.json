@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578127255775",
+    "project_id": "foodie-b47a9",
+    "storage_bucket": "foodie-b47a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578127255775:android:712aa383ea4fccb022b16a",
+        "android_client_info": {
+          "package_name": "com.example.order_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578127255775-m4gqjs2injhccbc941g5j22isor9oq8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCydGhIbfAs79fY_litACml9QSDcX6cLs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578127255775-m4gqjs2injhccbc941g5j22isor9oq8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
